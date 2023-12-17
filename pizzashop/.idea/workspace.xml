@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34e41603-dd5f-4513-b0eb-b8469aa43733" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pizza/static/pizza_image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/pizzashop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/pizza/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/templates/pizza/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/pizza/templates/pizza/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/templates/pizza/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pizza/templates/pizza/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/templates/pizza/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/pizza/templates/pizza/order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/templates/pizza/pizzas.html" beforeDir="false" afterPath="$PROJECT_DIR$/pizza/templates/pizza/pizzas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pizza/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizzashop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pizzashop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizzashop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pizzashop/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ZeWDH8Ln0BBA5546bhyXy4hMAv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Login360_student_record/Django_project/pizzashop"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34e41603-dd5f-4513-b0eb-b8469aa43733" name="Changes" comment="" />
+      <created>1702782904901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702782904901</updated>
+    </task>
+    <servers />
+  </component>
+</project>
